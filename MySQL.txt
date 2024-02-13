@@ -1,0 +1,9 @@
+For Downloads:
+
+1: MySQL WorkBench (https://dev.mysql.com/downloads/workbench/)
+
+2: XAMPP (https://www.apachefriends.org/download.html)
+
+
+
+
