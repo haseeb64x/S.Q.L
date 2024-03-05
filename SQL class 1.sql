@@ -14,12 +14,15 @@ create table employee (
 
 select * from employee;
 
-insert into employee (id , name , grade , marks , city)values
-(001 , "Ali" , "A" , 88 , "Karachi"),
-(002 , "Aliza" , "B" , 68 , "Lahore"),
-(003 , "Hamza" , "A+" , 98 , "Haiderabad"),
-(004 , "Huzaifa" , "B+" , 78 , "Islamabad"),
-(005 , "Ibrahim" , "C" , 58 , "Faisalabad")
+insert into employee (id , name , grade , marks , city) values (001 , "Ali" , "A" , 88 , "Karachi");
+
+insert into employee (id , name , grade , marks , city) values (002 , "Aliza" , "B" , 68 , "Lahore");
+
+insert into employee (id , name , grade , marks , city) values (003 , "Hamza" , "A+" , 98 , "Haiderabad");
+
+insert into employee (id , name , grade , marks , city) values (004 , "Huzaifa" , "B+" , 78 , "Islamabad");
+
+insert into employee (id , name , grade , marks , city) values (005 , "Ibrahim" , "C" , 58 , "Faisalabad");
 
 
 
